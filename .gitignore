@@ -2,3 +2,8 @@
 __pycache__/
 .ipynb_checkpoints/
 .DS_Store
+
+# Coursera-provided assignment notebooks (kept locally, not published)
+logistic-regression/C1_W3_Logistic_Regression.ipynb
+logistic-regression/C1_W3_Logistic_Regression_code_only.ipynb
+logistic-regression/test_utils.py
