@@ -1,13 +1,11 @@
 .venv/
 __pycache__/
 .ipynb_checkpoints/
+.vscode/
 .DS_Store
 
-# Coursera-provided assignment notebooks (kept locally, not published)
-logistic-regression/C1_W3_Logistic_Regression.ipynb
-logistic-regression/C1_W3_Logistic_Regression_code_only.ipynb
-logistic-regression/test_utils.py
-Neural Networks/C2_W1_Assignment.ipynb
-Neural Networks/C2_W1_Assignment_code_only.ipynb
-Decision Trees/C2_W4_Decision_Tree_with_Markdown.ipynb
-Unsupervised Learning/K- means Algorithm/C3_W1_KMeans_Assignment.ipynb
+# Coursera-provided assignment notebooks (kept locally, not published).
+# Matched at any depth so moving lab folders does not break the rules.
+C[0-9]_W[0-9]_*.ipynb
+*_code_only.ipynb
+test_utils.py
